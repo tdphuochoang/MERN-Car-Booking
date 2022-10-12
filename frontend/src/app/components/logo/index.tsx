@@ -46,7 +46,7 @@ export const Logo = (props: ILogoProps) => {
 			<Image>
 				<img src={logo} />
 			</Image>
-			<LogoText color={color || "dark"}>YourCar.</LogoText>
+			<LogoText color={color || "dark"}>MyJeepRental.</LogoText>
 		</LogoContainer>
 	);
 };
